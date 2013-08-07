@@ -5,3 +5,5 @@ This is the sample application for
 
 by [Mattan Griffel](http://mattangriffel.com)
 
+Peter is teaching himself to code!
+
